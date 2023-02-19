@@ -1,8 +1,8 @@
 body
 {
-    color: rgb(24, 71, 182);
+    color: rgb(255, 170, 0);
     text-align: center;
-    font-family: "Arial";
+    font-family: "Georgia";
     font-size: 20px;
     margin: 0;
     padding: 0;
@@ -31,7 +31,7 @@ body
     width: 70%;
     padding: 100px;
     text-align: center;
-    border: 5px solid rgb(23, 112, 116);
+    border: 5px solid rgb(218, 201, 255);
     margin: 0 auto;
 }
 
